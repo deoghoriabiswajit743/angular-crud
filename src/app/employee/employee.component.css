@@ -1,0 +1,28 @@
+/* Ensure padding for the content area */
+.content {
+    padding-top: 10px;
+  }
+  
+  /* Flex container for rows */
+  .row {
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Ensure mat-form-field takes full width */
+  .row mat-form-field {
+    flex: 1; /* Allow mat-form-field to grow and fill available space */
+  }
+  
+  /* Padding for action area */
+  .action {
+    padding: 0px 25px 20px;
+    display: flex; /* Ensure buttons are aligned correctly */
+    gap: 10px; /* Add gap between buttons if needed */
+  }
+  
+  /* Button styling inside action area */
+  .action button {
+    flex: 1; /* Allow button to take up available space */
+  }
+  

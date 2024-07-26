@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'); /* Include if using Bootstrap */
+
+/* Include Angular Material pre-built theme */
+@import url('https://unpkg.com/@angular/material/prebuilt-themes/indigo-pink.css');
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
