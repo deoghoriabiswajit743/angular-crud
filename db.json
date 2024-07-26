@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "firstName": "biswajit",
+      "lastName": "deoghoria",
+      "email": "abc@gmail.com",
+      "dob": "2024-07-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "abc",
+      "experience": 3,
+      "package": 123456,
+      "id": "34e7"
+    },
+    {
+      "firstName": "mukesh ",
+      "lastName": "mishra",
+      "email": "def@gmail.com",
+      "dob": "2024-07-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "cdddd",
+      "experience": 3,
+      "package": 55555,
+      "id": "c40f"
+    },
+    {
+      "id": "271c",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": ""
+    }
+  ]
+}
